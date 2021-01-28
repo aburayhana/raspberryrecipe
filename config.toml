@@ -1,0 +1,4 @@
+baseURL = "https://raspberryrecipe.vercel.app"
+languageCode = "en-us"
+title = "Raspberry Recipe"
+theme = "z"
